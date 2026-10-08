@@ -85,5 +85,4 @@ blinkit-sql-analysis/
 ## 📝 Note
 The dataset has no sales date column, so the year filter uses **Outlet_Establishment_Year**. This is an educational case study with fictional data.
 
-## 👤 Author
-**Your Name** | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+
